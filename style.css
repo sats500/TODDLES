@@ -7,18 +7,23 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image:url('https://img.freepik.com/free-vector/paper-style-luxury-background_23-2148982497.jpg')
+    background-image:url('https://i.pinimg.com/564x/c6/b5/32/c6b53253e85868813c7b33d143da1593.jpg');
 }
   
   .app {
     align-self:left;
-    background-color: beige;
+    background-color: pink;
     width: 300px;
-    height: 500px;
+    height: 400px;
     border: 5px solid beige;
     border-radius: 8px;
-    padding: 15px;
+    padding: 20px;
     overflow-y: scroll;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transform: rotate(10deg);
+    border-top-left-radius: 0pc;
+    
+    
     
   }
   .app::-webkit-scrollbar {
