@@ -7,7 +7,7 @@ A tool that helps to organize your day. It simply lists the things that you need
 [![Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
 
 # Key Features
-  # Adding a new item
+    Adding a new item
     Removing a selected item
     Marking a selected item as complete
     Removing all items marked as complete at once
