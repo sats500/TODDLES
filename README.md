@@ -4,4 +4,4 @@ A tool that helps to organize your day. It simply lists the things that you need
 # <h1>Built With</h1>
 
 # <h3>Tech stack</h3>
-[![Skills](https://skills.thijs.gg/icons?i=js,html,css,js)](https://skills.thijs.gg)
+[![Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
