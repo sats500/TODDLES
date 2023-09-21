@@ -9,6 +9,7 @@ A tool that helps to organize your day. It simply lists the things that you need
 # Key Features
     Adding a new item
     Removing a selected item
+    Editing a selected item
  
     
 
